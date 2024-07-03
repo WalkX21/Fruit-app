@@ -1,0 +1,49 @@
+Transaction at 2024-07-01 14:03:28
+Tomatoes 🍅 - 10.0 kg on 2024-07-01 with price of 2.0 $/kg (Total: 20.0 $)
+Tomatoes 🍅 - 10.0 kg on 2024-07-01 with price of 2.0 $/kg (Total: 20.0 $)
+Tomatoes 🍅 - 10.0 kg on 2024-07-01 with price of 2.0 $/kg (Total: 20.0 $)
+Tomatoes 🍅 - 10.0 kg on 2024-07-01 with price of 2.0 $/kg (Total: 20.0 $)
+Tomatoes 🍅 - 10.0 kg on 2024-07-01 with price of 2.0 $/kg (Total: 20.0 $)
+Tomatoes 🍅 - 10.0 kg on 2024-07-01 with price of 2.0 $/kg (Total: 20.0 $)
+Discount applied: -36.00 $
+
+Transaction at 2024-07-01 14:03:29
+Tomatoes 🍅 - 10.0 kg on 2024-07-01 with price of 2.0 $/kg (Total: 20.0 $)
+Tomatoes 🍅 - 10.0 kg on 2024-07-01 with price of 2.0 $/kg (Total: 20.0 $)
+Tomatoes 🍅 - 10.0 kg on 2024-07-01 with price of 2.0 $/kg (Total: 20.0 $)
+Discount applied: -18.00 $
+
+Transaction at 2024-07-01 14:03:31
+Tomatoes 🍅 - 10.0 kg on 2024-07-01 with price of 2.0 $/kg (Total: 20.0 $)
+Tomatoes 🍅 - 10.0 kg on 2024-07-01 with price of 2.0 $/kg (Total: 20.0 $)
+Tomatoes 🍅 - 10.0 kg on 2024-07-01 with price of 2.0 $/kg (Total: 20.0 $)
+Discount applied: -18.00 $
+
+Transaction at 2024-07-01 14:03:32
+Tomatoes 🍅 - 10.0 kg on 2024-07-01 with price of 2.0 $/kg (Total: 20.0 $)
+Tomatoes 🍅 - 10.0 kg on 2024-07-01 with price of 2.0 $/kg (Total: 20.0 $)
+Tomatoes 🍅 - 10.0 kg on 2024-07-01 with price of 2.0 $/kg (Total: 20.0 $)
+Discount applied: -18.00 $
+
+Transaction at 2024-07-01 14:11:20
+Carrots 🥕 - 10.0 kg on 2024-07-01 with price of 0.8 $/kg (Total: 8.0 $)
+Carrots 🥕 - 10.0 kg on 2024-07-01 with price of 0.8 $/kg (Total: 8.0 $)
+Carrots 🥕 - 10.0 kg on 2024-07-01 with price of 0.8 $/kg (Total: 8.0 $)
+Carrots 🥕 - 10.0 kg on 2024-07-01 with price of 0.8 $/kg (Total: 8.0 $)
+Discount applied: -9.60 $
+
+Transaction at 2024-07-01 14:11:25
+Lettuce 🥬 - 10.0 kg on 2024-07-01 with price of 0.9 $/kg (Total: 9.0 $)
+Lettuce 🥬 - 10.0 kg on 2024-07-01 with price of 0.9 $/kg (Total: 9.0 $)
+Lettuce 🥬 - 10.0 kg on 2024-07-01 with price of 0.9 $/kg (Total: 9.0 $)
+Lettuce 🥬 - 10.0 kg on 2024-07-01 with price of 0.9 $/kg (Total: 9.0 $)
+Lettuce 🥬 - 10.0 kg on 2024-07-01 with price of 0.9 $/kg (Total: 9.0 $)
+Discount applied: -13.50 $
+
+Transaction at 2024-07-01 14:11:30
+Kiwi 🥝 - 10.0 kg on 2024-07-01 with price of 2.4 $/kg (Total: 24.0 $)
+Kiwi 🥝 - 10.0 kg on 2024-07-01 with price of 2.4 $/kg (Total: 24.0 $)
+Kiwi 🥝 - 10.0 kg on 2024-07-01 with price of 2.4 $/kg (Total: 24.0 $)
+Kiwi 🥝 - 10.0 kg on 2024-07-01 with price of 2.4 $/kg (Total: 24.0 $)
+Discount applied: -28.80 $
+
